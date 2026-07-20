@@ -1,6 +1,23 @@
-# React + TypeScript + Vite
+# PwC Fullstack Practice - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository is a practice environment for the frontend portion of the PwC Fullstack Developer interview preparation.
+
+## Tech Stack
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Recharts
+
+## Setup
+1. Run `npm install`
+2. Run `npm run dev`
+
+See `PRACTICE_ASSIGNMENT.md` for specific tasks.
+
+---
+
+## Original Vite Template Setup
 
 Currently, two official plugins are available:
 
